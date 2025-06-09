@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on frontend mentor challenges https://kabnpy.github.io/frontend-mentor/
 
 <!--
 **kabnpy/kabnpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
